@@ -1,0 +1,25 @@
+.wrapper {
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.rowWrapper {
+    display: flex;
+}
+
+h1 {
+    border: 1px solid black;
+    box-shadow: 5px 5px;
+}
+
+.btn {
+    display: flex;
+    font-size: 18px;
+    margin-bottom: 30px;
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    justify-self: center;
+}
